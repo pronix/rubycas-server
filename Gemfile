@@ -1,5 +1,6 @@
 source "http://rubygems.org"
 gemspec
+gem 'pg'
 
 
 # Gems for authenticators
