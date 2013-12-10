@@ -1,6 +1,8 @@
 source "http://rubygems.org"
 gemspec
 gem 'pg'
+gem 'bcrypt-ruby'
+
 
 
 # Gems for authenticators
